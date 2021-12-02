@@ -1,0 +1,30 @@
+---
+canvas: "https://data.getty.edu/museum/api/iiif/72870/info.json"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Beato is using camera",
+            "purpose": "commenting",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-02T13:07:43.626Z",
+            "modified": "2021-12-02T13:07:52.774Z"
+        }
+    ],
+    "target": {
+        "source": "https://data.getty.edu/museum/api/iiif/72870/info.json",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:1805.884765625,2151.305419921875,883.159912109375,1708.3623046875"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "fe7ae6d6-aba8-48f0-ae79-21129132aba3.json"
+}
