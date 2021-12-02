@@ -1,0 +1,52 @@
+---
+---
+{
+  "@context": "http://iiif.io/api/image/2/context.json",
+  "@id": "https://qiuziguo2003.github.io/annonatate/manifests/72870/info.json/manifest.json",
+  "@type": "iiif:Image",
+  "protocol": "http://iiif.io/api/image",
+  "profile": [
+    "http://iiif.io/api/image/2/level0.json",
+    {
+      "maxWidth": 4183,
+      "maxHeight": 3346,
+      "maxArea": 13996318
+    }
+  ],
+  "width": 4183,
+  "height": 3346,
+  "sizes": [
+    {
+      "width": 4183,
+      "height": 3346
+    },
+    {
+      "width": 1024,
+      "height": 819
+    },
+    {
+      "width": 300,
+      "height": 240
+    },
+    {
+      "width": 3000,
+      "height": 2400
+    },
+    {
+      "width": 600,
+      "height": 480
+    }
+  ],
+  "tiles": [
+    {
+      "width": 254,
+      "scaleFactors": [
+        1,
+        2,
+        4,
+        8
+      ]
+    }
+  ],
+  "attribution": "Provided by The J. Paul Getty Museum, Los Angeles, California"
+}
