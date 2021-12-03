@@ -1,0 +1,34 @@
+---
+canvas: "https://data.getty.edu/museum/api/iiif/241378/canvas/main"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "\"Great Qing Gate\", a historical ceremonial gateway. It was changed into the \"Gate of China\" after the fall of the Qing Dynasty in 1912.",
+            "purpose": "describing",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-03T13:31:56.956Z",
+            "modified": "2021-12-03T13:32:24.435Z"
+        }
+    ],
+    "target": {
+        "source": "https://data.getty.edu/museum/api/iiif/241378/canvas/main",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:5480.72265625,480.9745178222656,636.796875,312.6266784667969"
+        },
+        "dcterms:isPartOf": {
+            "id": "https://data.getty.edu/museum/api/iiif/241378/manifest.json",
+            "type": "Manifest"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "b4ce99be-4df7-45c6-b991-a00c18786358.json"
+}
