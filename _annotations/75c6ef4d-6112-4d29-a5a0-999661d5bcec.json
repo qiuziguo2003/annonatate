@@ -1,0 +1,30 @@
+---
+canvas: "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg"
+order: 3
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "With the assurance of several Jesuit Advisors, a number of European-style palaces, pavilions, and gardens had been constructed between 1747 and 1783.\n\n",
+            "purpose": "describing",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-06T10:15:46.079Z",
+            "modified": "2021-12-06T10:15:59.724Z"
+        }
+    ],
+    "target": {
+        "source": "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:521.2686767578125,160.443115234375,8.1734619140625,7.9551544189453125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "75c6ef4d-6112-4d29-a5a0-999661d5bcec.json"
+}
