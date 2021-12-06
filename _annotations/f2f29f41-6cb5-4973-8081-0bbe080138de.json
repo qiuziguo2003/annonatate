@@ -1,0 +1,30 @@
+---
+canvas: "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg"
+order: 4
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "who was the photographer?",
+            "purpose": "questioning",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-06T10:16:18.255Z",
+            "modified": "2021-12-06T10:16:32.352Z"
+        }
+    ],
+    "target": {
+        "source": "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:836.0446166992188,151.76724243164062,7.23126220703125,7.6671142578125"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "f2f29f41-6cb5-4973-8081-0bbe080138de.json"
+}
