@@ -1,0 +1,30 @@
+---
+canvas: "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg"
+order: 1
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Ruins of Yuanmingyuan, Beijing. During the Second Opium War (1856-1860), British and French troops looted and burned the Yuanmingyuan.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-06T10:04:15.368Z",
+            "modified": "2021-12-06T10:05:14.826Z"
+        }
+    ],
+    "target": {
+        "source": "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:782.257080078125,466.8230895996094,6.3441162109375,6.180328369140625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "3111d772-6298-45f7-bf0f-497d51655a85.json"
+}
