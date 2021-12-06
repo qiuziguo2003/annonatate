@@ -1,0 +1,30 @@
+---
+canvas: "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg"
+order: 2
+---
+{
+    "type": "Annotation",
+    "body": [
+        {
+            "type": "TextualBody",
+            "value": "Jin Shsheng, started to take photographs in 1930s Shanghai when he studied civil engineering at Tongji University. He employed photography to record the moments during his travel.",
+            "purpose": "commenting",
+            "creator": {
+                "id": "qiuziguo2003",
+                "name": "qiuziguo2003"
+            },
+            "created": "2021-12-06T10:06:27.345Z",
+            "modified": "2021-12-06T10:09:09.176Z"
+        }
+    ],
+    "target": {
+        "source": "https://live.staticflickr.com/65535/50965640153_73b1f19c1e_b_d.jpg",
+        "selector": {
+            "type": "FragmentSelector",
+            "conformsTo": "http://www.w3.org/TR/media-frags/",
+            "value": "xywh=pixel:337.0667724609375,788.8246459960938,15.6007080078125,4.25592041015625"
+        }
+    },
+    "@context": "http://www.w3.org/ns/anno.jsonld",
+    "id": "36de3665-5042-46ad-9727-c10be4e2dec9.json"
+}
